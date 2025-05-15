@@ -20,7 +20,7 @@ A `MeetUpTest` osztályban vedd fel az alábbi adattagokat:
 
     private Person johnSilver = new Person("Long John Silver", 47, 192);
     private Person captainSmollet = new Person("Captain Smollet", 39, 184);
-    private Person benGunn = new Person("Ben Gunn Dog", 52, 172);
+    private Person benGunn = new Person("Ben Gunn", 52, 172);
     private Person jim = new Person("Jim Hawkins", 14, 168);
     private Person doctorLivesey = new Person("Doctor Livesey", 35, 178);
 
